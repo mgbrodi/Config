@@ -2,7 +2,7 @@ api:
   fallbackFortune: "API is not responding."
   apiURL: //fortune-api
 service:
-  fallbackFortune: "Your future is bright. Enjoy!"
+  fallbackFortune: "Your future is bright. Live long and prosper!"
   serviceURL: //fortune-service
 url:
   apiURL: http://pivot-mbrodi-fortune-api.apps.pcfone.io
