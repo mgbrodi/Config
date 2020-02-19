@@ -1,5 +1,5 @@
 api:
-  fallbackFortune: "Hard times are in front of you...APIs are not responding! May the strength be with ya!"
+  fallbackFortune: "APIs are not responding! May the strength be with ya!"
   apiURL: //fortune-api
 service:
   fallbackFortune: "Your future is bright. Live long and prosper!"
