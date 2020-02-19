@@ -7,3 +7,6 @@ service:
 url:
   apiURL: http://pivot-mbrodi-fortune-api.apps.pcfone.io
   uiURL: http://pivot-mbrodi-fortune-api.apps.pcfone.io
+ui:
+  fallbackFortune: "Look at you, awesome!"
+  apiURL: //fortune-api
